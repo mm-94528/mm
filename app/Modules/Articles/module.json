@@ -1,0 +1,7 @@
+{
+    "name": "Articles",
+    "description": "Gestione articoli",
+    "version": "1.0.0",
+    "author": "System",
+    "dependencies": ["Auth"]
+}

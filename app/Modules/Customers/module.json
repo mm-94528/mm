@@ -1,0 +1,7 @@
+{
+    "name": "Customers",
+    "description": "Gestione clienti",
+    "version": "1.0.0",
+    "author": "System",
+    "dependencies": ["Auth"]
+}

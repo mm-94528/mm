@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /scaffold/
+
+RewriteCond %{REQUEST_URI} /public/ [NC]
+RewriteRule (.*) public/$1 [L]

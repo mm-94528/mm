@@ -1,0 +1,14 @@
+{
+    "name": "Auth",
+    "description": "Sistema di autenticazione utenti",
+    "version": "1.0.0",
+    "author": "System",
+    "core": true,
+    "dependencies": [],
+    "permissions": [
+        "auth.login",
+        "auth.register",
+        "auth.logout",
+        "auth.password.reset"
+    ]
+}
